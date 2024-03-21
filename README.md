@@ -25,6 +25,16 @@
   <h2>Usage</h2>
   
   <p>Feel free to explore the code provided for each sensor and adapt it to your own projects. Make sure to follow the setup instructions provided in the documentation for proper wiring and configuration.</p>
+
+  
+  <p>Check out the test setup in action:</p>
+  
+  <img src="https://github.com/DIY-Sensors/03-Temperature-Sensors-ESPHome-and-Arduino/assets/155093397/9d4de949-3f21-4f3d-bd19-9403a15f8ff7" alt="Breadboard Setup">
+  
+  <p>This image showcases the breadboard setup used for our temperature and humidity sensor project. It provides a visual representation of how the sensors are connected to the WEMOS Mini D1 board.</p>
+  
+
+
   
   <h2>Contributing</h2>
   
