@@ -39,7 +39,7 @@
   <h2>Contributing</h2>
   
   <p>If you have any suggestions, improvements, or additional sensor comparisons you'd like to see, please open an issue or submit a pull request. Your contributions are highly appreciated!</p>
-  ![breadboard](https://github.com/DIY-Sensors/03-Temperature-Sensors-ESPHome-and-Arduino/assets/155093397/9d4de949-3f21-4f3d-bd19-9403a15f8ff7)
+
   
   <h2>License</h2>
   
