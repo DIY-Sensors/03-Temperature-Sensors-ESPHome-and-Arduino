@@ -8,7 +8,7 @@
 <body>
   <h1>Temperature and Humidity Sensor Comparison</h1>
   
-  <p>Welcome to the GitHub repository for our video comparing indoor and outdoor temperature and humidity sensors! In this project, we dive deep into the world of climate monitoring, exploring the performance of three popular indoor sensors (DHT22, HTU21d, and DHT22) alongside an outdoor Dallas sensor.</p>
+  <p>Welcome to the GitHub repository for our video comparing indoor and outdoor temperature and humidity sensors! In this project, we dive deep into the world of climate monitoring, exploring the performance of three popular indoor sensors (DHT22, HTU21d, and BME680) alongside an outdoor Dallas sensor.</p>
   
   <h2>Overview</h2>
   
