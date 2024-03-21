@@ -18,11 +18,11 @@
   
   <h2>HTU21d</h2>
   <p>Here's how to connect the HTU21d sensor to the Wemos Mini D1:</p>
-  <img src="[https://github.com/DIY-Sensors/03-Temperature-Sensors-ESPHome-and-Arduino/assets/htu21d_connection.png](https://github.com/DIY-Sensors/03-Temperature-Sensors-ESPHome-and-Arduino/assets/155093397/0c40bb41-9867-4177-a954-44019dd0b3a2)" alt="HTU21d Connection">
+  <img src="https://github.com/DIY-Sensors/03-Temperature-Sensors-ESPHome-and-Arduino/assets/htu21d_connection.png](https://github.com/DIY-Sensors/03-Temperature-Sensors-ESPHome-and-Arduino/assets/155093397/0c40bb41-9867-4177-a954-44019dd0b3a2)" alt="HTU21d Connection">
   
   <h2>BME680</h2>
   <p>Here's how to connect the BME680 sensor to the Wemos Mini D1:</p>
-  <img src="[https://github.com/DIY-Sensors/03-Temperature-Sensors-ESPHome-and-Arduino/assets/bme680_connection.png](https://github.com/DIY-Sensors/03-Temperature-Sensors-ESPHome-and-Arduino/assets/155093397/67e6c962-8882-4294-98ab-fa41692bdc7e)" alt="BME680 Connection">
+  <img src="https://github.com/DIY-Sensors/03-Temperature-Sensors-ESPHome-and-Arduino/assets/bme680_connection.png](https://github.com/DIY-Sensors/03-Temperature-Sensors-ESPHome-and-Arduino/assets/155093397/67e6c962-8882-4294-98ab-fa41692bdc7e)" alt="BME680 Connection">
   
   <hr>
   
