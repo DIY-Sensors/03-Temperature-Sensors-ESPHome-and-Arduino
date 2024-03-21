@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sensor Connections to Wemos Mini D1</title>
 </head>
 <body>
   <h1>Sensor Connections to Wemos Mini D1</h1>
